@@ -7,7 +7,8 @@
 <br>
 안녕하세요! 개발자를 준비하고 있는 민지수입니다💜<br>
 "You just need to believe in yourself." <br><br>
-<img src="https://user-images.githubusercontent.com/98381511/177118622-fa4a4ed6-fa33-401a-a29e-743bc9349228.gif" width="50%">
+<img src="https://user-images.githubusercontent.com/98498704/179724082-ac6a30cb-cea2-4060-b721-706880fb6acd.gif" width="50%">
+
 
 <br>
 
