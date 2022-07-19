@@ -10,20 +10,17 @@
 <img src="https://user-images.githubusercontent.com/98381511/177118622-fa4a4ed6-fa33-401a-a29e-743bc9349228.gif" width="50%">
 
 <h2>🎈About Me🎈</h2>
-🎓Graduated DGU in Seoul, Chinese Language and Literature, Business Administration<br>
+🎓Graduated SoongSil University in Seoul, Computer Engineering<br>
 📜Certificated Korea IT program in Seoul<br>
-💌Email : 2018110325@dgu.ac.kr<br>
+💌Email : alswltn09@naver.com<br>
 
-<h2>🎈Back-end🎈</h2>
+<h2>🎈What I'm studying right now is🎈</h2>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=flat&logo=python&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=flat&logo=spring&logoColor=white) <br>
 ![ORACLE](https://img.shields.io/badge/oracle-F80000.svg?style=flat&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-
-<h2>🎈Front-end🎈</h2>
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-1572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
