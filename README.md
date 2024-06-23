@@ -5,7 +5,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiyeon1104&count_bg=%23FDC8F8&title_bg=%23F54D4D96&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
-안녕하세요! 개발자를 준비하고 있는 민지수입니다💜<br>
+안녕하세요! 개발자를 준비하고 있는 민지수입니다<br>
 "You just need to believe in yourself." <br><br>
 <img src="https://user-images.githubusercontent.com/98498704/179724082-ac6a30cb-cea2-4060-b721-706880fb6acd.gif" width="80%">
 
