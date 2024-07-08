@@ -4,10 +4,11 @@
 <h2>✨Hello, I'm JiSu!✨</h2>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiyeon1104&count_bg=%23FDC8F8&title_bg=%23F54D4D96&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br>
-안녕하세요! 개발자를 준비하고 있는 민지수입니다<br>
-"You just need to believe in yourself." <br><br>
-<img src="https://user-images.githubusercontent.com/98498704/179724082-ac6a30cb-cea2-4060-b721-706880fb6acd.gif" width="80%">
+<br>안녕하세요 백엔드 개발자 민지수입니다<br> 
+<br>유저에게 더 나은 서비스를 제공하도록 방향을 이끌어나가는 것 또한 개발자의 역량이라 생각됩니다.<br>
+<br>사용자의 니즈를 충족 시키는 개발자가 되고 싶습니다.<br>
+<br><br>
+<img src="https://user-images.githubusercontent.com/98498704/179724082-ac6a30cb-cea2-4060-b721-706880fb6acd.gif" width="40%">
 
 
 <br>
@@ -47,6 +48,7 @@
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=flat&logo=Sourcetree&logoColor=white)
 
 <br>
-
+blog : [tistory](https://oosi.tistory.com/)
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minjsi&show_icons=true&theme=radical)
 </div>
