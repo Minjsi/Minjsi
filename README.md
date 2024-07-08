@@ -17,7 +17,7 @@
 🎓Graduated SoongSil University in Seoul, Computer Engineering<br>
 📜Certificated Korea IT program in Seoul<br>
 💌Email : alswltn09@naver.com<br>
-
+blog : [tistory](https://oosi.tistory.com/)
 <br>
 
 <h2>🎈What I'm studying right now is🎈</h2>
@@ -48,7 +48,7 @@
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=flat&logo=Sourcetree&logoColor=white)
 
 <br>
-blog : [tistory](https://oosi.tistory.com/)
+
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minjsi&show_icons=true&theme=radical)
 </div>
